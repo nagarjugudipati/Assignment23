@@ -1,0 +1,11 @@
+D:\Mphasis\Day-20\ConAppAssignment23\ConAppAssignment23\bin\Debug\ConAppAssignment23.exe.config
+D:\Mphasis\Day-20\ConAppAssignment23\ConAppAssignment23\bin\Debug\ConAppAssignment23.exe
+D:\Mphasis\Day-20\ConAppAssignment23\ConAppAssignment23\bin\Debug\ConAppAssignment23.pdb
+D:\Mphasis\Day-20\ConAppAssignment23\ConAppAssignment23\bin\Debug\MySharedLibrary.dll
+D:\Mphasis\Day-20\ConAppAssignment23\ConAppAssignment23\bin\Debug\MySharedLibrary.pdb
+D:\Mphasis\Day-20\ConAppAssignment23\ConAppAssignment23\obj\Debug\ConAppAssignment23.csproj.AssemblyReference.cache
+D:\Mphasis\Day-20\ConAppAssignment23\ConAppAssignment23\obj\Debug\ConAppAssignment23.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Day-20\ConAppAssignment23\ConAppAssignment23\obj\Debug\ConAppAssignment23.csproj.CoreCompileInputs.cache
+D:\Mphasis\Day-20\ConAppAssignment23\ConAppAssignment23\obj\Debug\ConAppAssignment23.csproj.CopyComplete
+D:\Mphasis\Day-20\ConAppAssignment23\ConAppAssignment23\obj\Debug\ConAppAssignment23.exe
+D:\Mphasis\Day-20\ConAppAssignment23\ConAppAssignment23\obj\Debug\ConAppAssignment23.pdb
